@@ -11,8 +11,8 @@ Second, the permanently closed restaurant information is not returned by the Goo
 
 Steps for mapping the closed restaurants in new york city.
 
-Download pfchnyc.py and type your desired location information at “search_lat_long” field.
-Then the places.json file is created. 
-Convert it to a csv file and upload the csv file from Google Map to check the status of closed restaurants. You can see how in Place.csv file. I simply used a converter for converting a json file to a csv file. 
+1. Download pfchnyc.py and type your desired location information at “search_lat_long” field.
+2. Then the places.json file is created. 
+3. Convert it to a csv file and upload the csv file from Google Map to check the status of closed restaurants. You can see how in Place.csv file. I simply used a converter for converting a json file to a csv file. 
 
 Final result can be found at: https://sites.google.com/pratt.edu/nyc/introduction
